@@ -1,0 +1,11 @@
+streamlit
+pandas
+seaborn
+matplotlib
+plotly
+Pillow
+scikit-learn==1.2.2
+altair
+feature-engine
+opencv-python
+tensorflow
